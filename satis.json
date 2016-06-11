@@ -8,6 +8,7 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ErrorPages" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_RobotsTxt" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_BodyClass" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Setup" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/Jbh_ConnectAs" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/Jbh_CartMerge" }
     ],
