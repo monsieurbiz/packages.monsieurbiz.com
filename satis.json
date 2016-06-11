@@ -1,0 +1,15 @@
+{
+    "name": "Monsieur Biz Repository",
+    "homepage": "http://packages.monsieurbiz.com",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Menu" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Cms" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_CustomerNavigation" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ErrorPages" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_RobotsTxt" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_BodyClass" },
+        { "type": "vcs", "url": "https://github.com/jacquesbh/Jbh_ConnectAs" },
+        { "type": "vcs", "url": "https://github.com/jacquesbh/Jbh_CartMerge" }
+    ],
+    "require-all": true
+}
