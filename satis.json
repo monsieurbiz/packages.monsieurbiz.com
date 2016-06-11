@@ -1,6 +1,6 @@
 {
     "name": "Monsieur Biz Repository",
-    "homepage": "http://packages.monsieurbiz.com",
+    "homepage": "https://packages.monsieurbiz.com",
     "repositories": [
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Menu" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Cms" },
