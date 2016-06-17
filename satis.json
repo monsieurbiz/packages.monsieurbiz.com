@@ -9,6 +9,7 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_RobotsTxt" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_BodyClass" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Setup" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_AdvancedReports" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_connectas" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_cartmerge" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_homepage" }
