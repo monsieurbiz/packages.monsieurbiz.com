@@ -14,6 +14,7 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_CustomerBreadcrumbs" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Price" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Twitter" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Ajax" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_connectas" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_cartmerge" },
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_homepage" }
