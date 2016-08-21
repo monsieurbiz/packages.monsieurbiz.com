@@ -15,11 +15,13 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ErrorPages" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ImageCrop" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Menu" },
-        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_MetaPackage" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Price" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_RobotsTxt" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Setup" },
-        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Twitter" }
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Twitter" },
+
+
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_MetaPackage" }
     ],
     "require-all": true
 }
