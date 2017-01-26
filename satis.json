@@ -20,6 +20,7 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Reports" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_RobotsTxt" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Setup" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_TrackingTags" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Twitter" },
 
 
