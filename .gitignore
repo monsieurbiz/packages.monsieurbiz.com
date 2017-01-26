@@ -9,3 +9,4 @@ composer.lock
 satis.phar
 
 web/
+fabfile.pyc
