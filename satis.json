@@ -7,6 +7,7 @@
         { "type": "vcs", "url": "https://github.com/jacquesbh/jbh_homepage" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_AdvancedReports" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Ajax" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_AjaxCart" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_BodyClass" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Catalog" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Cms" },
