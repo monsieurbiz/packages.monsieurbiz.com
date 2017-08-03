@@ -15,6 +15,7 @@
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_CustomerNavigation" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ErrorPages" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_ImageCrop" },
+        { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_IWantMySymlinksBack" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Menu" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_OptionSystemCode" },
         { "type": "vcs", "url": "https://github.com/monsieurbiz/Mbiz_Payment" },
